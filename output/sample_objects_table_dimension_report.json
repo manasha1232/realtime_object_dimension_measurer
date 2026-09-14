@@ -1,0 +1,216 @@
+{
+    "filename": "sample_objects_table.jpg",
+    "total_objects_measured": 6,
+    "pixels_per_mm": 1.4486,
+    "processing_time_sec": 0.1541,
+    "objects": [
+        {
+            "id": 1,
+            "is_reference": true,
+            "dimensions_mm": {
+                "width": 85.6,
+                "height": 11.7
+            },
+            "dimensions_cm": {
+                "width": 8.56,
+                "height": 1.17
+            },
+            "dimensions_in": {
+                "width": 3.37,
+                "height": 0.46
+            },
+            "bounding_box": [
+                [
+                    128.0,
+                    33.0
+                ],
+                [
+                    252.0,
+                    33.0
+                ],
+                [
+                    252.0,
+                    50.0
+                ],
+                [
+                    128.0,
+                    50.0
+                ]
+            ]
+        },
+        {
+            "id": 2,
+            "is_reference": false,
+            "dimensions_mm": {
+                "width": 166.4,
+                "height": 166.4
+            },
+            "dimensions_cm": {
+                "width": 16.64,
+                "height": 16.64
+            },
+            "dimensions_in": {
+                "width": 6.55,
+                "height": 6.55
+            },
+            "bounding_box": [
+                [
+                    198.0,
+                    590.0
+                ],
+                [
+                    436.0,
+                    549.0
+                ],
+                [
+                    477.0,
+                    786.0
+                ],
+                [
+                    240.0,
+                    828.0
+                ]
+            ]
+        },
+        {
+            "id": 3,
+            "is_reference": false,
+            "dimensions_mm": {
+                "width": 118.0,
+                "height": 11.7
+            },
+            "dimensions_cm": {
+                "width": 11.8,
+                "height": 1.17
+            },
+            "dimensions_in": {
+                "width": 4.65,
+                "height": 0.46
+            },
+            "bounding_box": [
+                [
+                    259.0,
+                    32.0
+                ],
+                [
+                    430.0,
+                    32.0
+                ],
+                [
+                    430.0,
+                    49.0
+                ],
+                [
+                    259.0,
+                    49.0
+                ]
+            ]
+        },
+        {
+            "id": 4,
+            "is_reference": false,
+            "dimensions_mm": {
+                "width": 98.7,
+                "height": 11.7
+            },
+            "dimensions_cm": {
+                "width": 9.87,
+                "height": 1.17
+            },
+            "dimensions_in": {
+                "width": 3.89,
+                "height": 0.46
+            },
+            "bounding_box": [
+                [
+                    502.0,
+                    32.0
+                ],
+                [
+                    645.0,
+                    32.0
+                ],
+                [
+                    645.0,
+                    49.0
+                ],
+                [
+                    502.0,
+                    49.0
+                ]
+            ]
+        },
+        {
+            "id": 5,
+            "is_reference": false,
+            "dimensions_mm": {
+                "width": 144.5,
+                "height": 299.3
+            },
+            "dimensions_cm": {
+                "width": 14.45,
+                "height": 29.93
+            },
+            "dimensions_in": {
+                "width": 5.69,
+                "height": 11.78
+            },
+            "bounding_box": [
+                [
+                    742.0,
+                    129.0
+                ],
+                [
+                    932.0,
+                    217.0
+                ],
+                [
+                    749.0,
+                    610.0
+                ],
+                [
+                    559.0,
+                    522.0
+                ]
+            ]
+        },
+        {
+            "id": 6,
+            "is_reference": false,
+            "dimensions_mm": {
+                "width": 34.7,
+                "height": 77.5
+            },
+            "dimensions_cm": {
+                "width": 3.47,
+                "height": 7.75
+            },
+            "dimensions_in": {
+                "width": 1.36,
+                "height": 3.05
+            },
+            "bounding_box": [
+                [
+                    729.0,
+                    650.0
+                ],
+                [
+                    800.0,
+                    579.0
+                ],
+                [
+                    800.0,
+                    721.0
+                ],
+                [
+                    800.0,
+                    721.0
+                ]
+            ]
+        }
+    ],
+    "output_files": {
+        "annotated_dimensions": "output\\sample_objects_table_dimensions.jpg",
+        "comparison_montage": "output\\sample_objects_table_comparison.jpg"
+    }
+}
